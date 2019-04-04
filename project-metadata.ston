@@ -1,0 +1,11 @@
+{#version:'1.0'}
+{
+	#name : #PharoCounter-UI,
+	#description : 'Small UI for the counter model.',
+	#units : [
+		{
+			#name : #Counter-UI-Spec,
+			#description : 'Core package with the counter UI based on Spec.'
+		}
+	]
+}
